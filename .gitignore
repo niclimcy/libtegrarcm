@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+
+# Downloaded flash packages
+*_flash_package.tar.xz
+*_flash_package.txz
+tests/golden/.regen-*
